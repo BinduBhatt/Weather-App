@@ -1,5 +1,6 @@
 With this project, I have tried to develop a python program that uses API of 'OpenWeather' website to retrieve  weather information. 
-It allows the user to enter city and get the weather information. 
+It allows the user to enter city and get the weather information.
+This project contains three files. .Ipynb, .py , .exe
 I have used 
 - tkinter library for GUI creation. 
 - tkinter library to create city dropdowns
